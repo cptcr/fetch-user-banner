@@ -1,0 +1,16 @@
+{
+  "name": "fetch-user-banner",
+  "version": "1.0.2",
+  "description": "",
+  "main": "fetchUserBanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord", "discord banner", "discord user", "discord user banner", "user banner", "discord.js", "nodejs", "v14", "banner", "get banner", "fetch banner", "discord API"],
+  "author": "toowake",
+  "license": "MIT",
+  "repository": {
+    "type": "GitHub",
+    "url": ""
+  }
+}
